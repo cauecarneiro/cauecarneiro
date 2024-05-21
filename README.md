@@ -4,7 +4,8 @@
 
 <br>
 
-<div text-align: justify> Aficionado por tecnologia com uma paixão por enfrentar novos desafios. Gosto de resolver problemas complexos e criar soluções inovadoras. Sou proativo e valorizo o trabalho em equipe, sempre buscando aprimorar minhas habilidades e contribuir para projetos colaborativos. </div>
+<div align="justify"> 
+Aficionado por tecnologia com uma paixão por enfrentar novos desafios. Gosto de resolver problemas complexos e criar soluções inovadoras. Sou proativo e valorizo o trabalho em equipe, sempre buscando aprimorar minhas habilidades e contribuir para projetos colaborativos. </div>
 
 <br><div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cauecarneiro&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Cauê Carneiro gitHub stats" >
