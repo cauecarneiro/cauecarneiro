@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="justify"> 
+<div align="center"> 
 Aficionado por tecnologia com uma paixão por enfrentar novos desafios. Gosto de resolver problemas complexos e criar soluções inovadoras. Sou proativo e valorizo o trabalho em equipe, sempre buscando aprimorar minhas habilidades e contribuir para projetos colaborativos. </div>
 
 <br><div align="center">
