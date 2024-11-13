@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Cauê. I am a developer passionate about solving complex problems and exploring computer science. Currently, I am seeking a position where I can further develop my skills and contribute to the team by adding value.</p>
+<p align="left">Hello, my name is Cauê. I'm a developer passionate about solving complex problems and exploring the world of technology. I am currently looking for a position where I can further develop my skills and abilities to contribute to the team by adding value.</p>
 
 ###
 
