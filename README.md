@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Cauê. I'm a developer passionate about solving complex problems and exploring the world of technology. I am currently looking for a position where I can further develop my skills and abilities to contribute to the team by adding value.</p>
+<p align="left">"Hello, my name is Cauê! I'm a developer and I like to solve problems, embrace entrepreneurship, lead and participate in innovative projects. I currently work at the Apple Developer Academy, where I create apps for iOS, iPadOS, macOS and watchOS. I'm always in the mood to learn and grow, mainly by absorbing knowledge from more experienced professionals and co-workers.</p>
 
 ###
 
