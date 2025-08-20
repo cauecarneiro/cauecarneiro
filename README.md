@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">"Hello, my name is Cauê! I'm a developer and I like to solve problems, embrace entrepreneurship, lead and participate in innovative projects. I currently work at the Apple Developer Academy, where I create apps for iOS, iPadOS, macOS and watchOS. I'm always in the mood to learn and grow, mainly by absorbing knowledge from more experienced professionals and co-workers.</p>
+<p align="left">🇺🇸Hello, my name is Cauê! I'm a developer and I like to solve problems, embrace entrepreneurship, lead and participate in innovative projects. I currently work at the Apple Developer Academy, where I create apps for iOS, iPadOS, macOS and watchOS. I'm always in the mood to learn and grow, mainly by absorbing knowledge from more experienced professionals and co-workers.</p>
+
+<p align="left">🇧🇷Olá, meu nome é Cauê! Sou desenvolvedor e gosto de resolver problemas, abraçar o empreendedorismo, liderar e participar de projetos inovadores. Atualmente, trabalho na Apple Developer Academy, onde crio aplicativos para iOS, iPadOS, macOS e watchOS. Estou sempre disposto a aprender e crescer, principalmente absorvendo conhecimento de profissionais e colegas mais experientes.</p>
+
 
 ###
 
